@@ -1,0 +1,5 @@
+{
+  "base_url": "https://api.intachurch.com/api/v1",
+  "test_base_url": "https://mms-apis.herokuapp.com/api/v1",
+  "yt_key": "AIzaSyDmMNksK8V8gm8STbNurKIKS9la3EQJHG4"
+}
